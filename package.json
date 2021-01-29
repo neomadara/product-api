@@ -1,0 +1,24 @@
+{
+  "name": "product-api",
+  "version": "1.0.0",
+  "description": "project de prueba para node",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neomadara/product-api.git"
+  },
+  "author": "cristian gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neomadara/product-api/issues"
+  },
+  "homepage": "https://github.com/neomadara/product-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.14"
+  }
+}
