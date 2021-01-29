@@ -1,4 +1,7 @@
 # product-api
 
-to use this api you have to open your terminal and execute the next command:
+1.- install the dependencies:
+#### npm i
+
+2.- start the server
 #### npm start
